@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Billy Bob
+  m_EditorClassIdentifier: 
+  characterName: Billy Bob
+  brain: workspaces/default-gtnx0pi5koopjuycje10dq/characters/billy_bob
+  avatar: {fileID: 0}
+  workspace: workspaces/default-gtnx0pi5koopjuycje10dq
+  currentScene: workspaces/default-gtnx0pi5koopjuycje10dq/characters/billy_bob
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 37c4bd98bf674bb4a954374aacffa249, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/default-gtnx0pi5koopjuycje10dq/scenes/classroom
+  modelUri: 
+  posUri: 
+  previewImgUri: 
+  characterID: 8b472fc7-31ba-42d6-a3c5-09b88a649d68
