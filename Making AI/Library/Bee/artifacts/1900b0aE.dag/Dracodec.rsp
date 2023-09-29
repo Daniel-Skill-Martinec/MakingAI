@@ -128,6 +128,7 @@
 -r:"Assets/Inworld.AI/Plugins/ThirdParty/GRPC/Grpc.Core.Api.dll"
 -r:"Assets/Inworld.AI/Plugins/ThirdParty/GRPC/Grpc.Core.dll"
 -r:"Assets/Inworld.AI/Plugins/ThirdParty/NewtonSoftJson/NewtonsoftJson.dll"
+-r:"Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
