@@ -23,7 +23,7 @@ MonoBehaviour:
   triggers: []
   scenes:
   - workspaces/default-gtnx0pi5koopjuycje10dq/scenes/classroom
-  modelUri: 
-  posUri: 
-  previewImgUri: 
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/8cd3b729-c082-49c5-83bf-9b903126a2c6.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/8cd3b729-c082-49c5-83bf-9b903126a2c6_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/8cd3b729-c082-49c5-83bf-9b903126a2c6_portrait.jpg
   characterID: 231928db-cb85-4529-8f5b-26fd21ce50ef

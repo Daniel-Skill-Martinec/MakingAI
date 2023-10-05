@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameSettings
   m_EditorClassIdentifier: 
   currentServer: {fileID: 11400000, guid: 28b3b2b35eaee4a4abd0939f64328122, type: 2}
-  currentWorkspace: {fileID: 11400000, guid: ddb0531dd3ca32e44805194a7bb5ffdd, type: 2}
-  currentScene: {fileID: 11400000, guid: 0f7147c9a6748c0408ec931946c1a123, type: 2}
-  currentCharacter: {fileID: 11400000, guid: 1ffe26288a1705d42af4b04157d0580d, type: 2}
-  currentKey: {fileID: 11400000, guid: e539bbfd5cfffc54eaca907d12824bea, type: 2}
+  currentWorkspace: {fileID: 11400000, guid: dfd008b862fbc1f41b0a08ab46572cab, type: 2}
+  currentScene: {fileID: 11400000, guid: 4ddd4e1161abe7b4bb58d5d572b31666, type: 2}
+  currentCharacter: {fileID: 11400000, guid: 66861f81d501d614196d0e38f393519e, type: 2}
+  currentKey: {fileID: 11400000, guid: 7b4239a957261f54190dfbedd728f7c9, type: 2}
