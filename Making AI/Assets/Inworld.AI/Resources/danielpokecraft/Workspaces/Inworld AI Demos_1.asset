@@ -18,6 +18,9 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 11400000, guid: ee2ce7869094f9845b79e3629b7218ed, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 66861f81d501d614196d0e38f393519e, type: 2}
   - {fileID: 0}
   - {fileID: 0}
@@ -27,6 +30,7 @@ MonoBehaviour:
   - {fileID: 0}
   scenes:
   - {fileID: 11400000, guid: 4ddd4e1161abe7b4bb58d5d572b31666, type: 2}
+  - {fileID: 11400000, guid: f10b399d67f9d0d4eb26a3e2846b5abd, type: 2}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
